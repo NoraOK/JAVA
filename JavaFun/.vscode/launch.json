@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PythagoreanTest",
+            "request": "launch",
+            "mainClass": "PythagoreanTest",
+            "projectName": "JavaFun_ee9026a9"
+        }
+    ]
+}
